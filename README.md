@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nxm23763
 - 👀 I’m interested in theoretical AI/ML
 - 🌱 I’m currently learning deep learning models and evolutionary neural networks
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email natalia.mora@ou.edu
 
 <!---
